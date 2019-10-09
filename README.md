@@ -1,42 +1,38 @@
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(1).pdf" style="text-decoration:none;"> Basics of Matrix Algebra for Statistics with R</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(1).pdf" style="text-decoration:none;">Computational Physics: A Practical Introduction to Computational Physics and Scientific Computing</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(2).pdf" style="text-decoration:none;">An Coding the Matrix: Linear Algebra through Applications to Computer Science </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(2).pdf" style="text-decoration:none;">Computational Physics </a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(3).pdf" style="text-decoration:none;">Elementary Linear Algebra: A Matrix Approach</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(3).pdf" style="text-decoration:none;">Computational Physics: Simulation of Classical and Quantum Systems</a></b></li>
                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(4).pdf" style="text-decoration:none;">Fundamentals of Matrix Algebra </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(5).pdf" style="text-decoration:none;"> Matrix Algebra: Theory, Computations, and Applications in Statistics</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(6).pdf" style="text-decoration:none;">Groups, Matrices, and Vector Spaces: A Group Theoretic Approach to Linear Algebra </a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(7).pdf" style="text-decoration:none;">Introduction to Modern Algebra and Matrix Theory</a></b></li>                                
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(8).pdf" style="text-decoration:none;">Linear Algebra: Foundations to Frontiers</a></b></li>                                 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(4).pdf" style="text-decoration:none;">Computational Physics using MATLAB</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(5).pdf" style="text-decoration:none;"> Computational Physics: Problem Solving with Computers</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(6).pdf" style="text-decoration:none;">Effective Computation in Physics </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(7).pdf" style="text-decoration:none;">Fourth Granada Lectures in Computational Physics</a></b></li>                                
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(8).pdf" style="text-decoration:none;">Computational Physics: Lecture Notes Fall 2013</a></b></li>                                 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(9).pdf" style="text-decoration:none;">MATLAB Matrix Algebra</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(9).pdf" style="text-decoration:none;">Physical Perspectives on Computation, Computational Perspectives on Physics</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(10).pdf" style="text-decoration:none;">Matrix Algebra for Linear Models</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(10).pdf" style="text-decoration:none;">Computational Physics With Python</a></b></li> 
 
-                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(11).pdf" style="text-decoration:none;">Computer Simulation Studies in Condensed-Matter Physics XIX</a></b></li>                          
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(12).pdf" style="text-decoration:none;">Matrix Mathematics: Theory, Facts, and Formulas</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(12).pdf" style="text-decoration:none;">Frontiers of Fundamental Physics: Proceedings of the Sixth International Symposium Frontiers of Fundamental and
+Computational Physics, Udine, Italy, 26--29 September 2004</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(13).pdf" style="text-decoration:none;"> Matrix Operations for Engineers and Scientists </a></b></li>
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(14).pdf" style="text-decoration:none;">Matrix Theory: From Generalized Inverses to Jordan Form</a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(15).pdf" style="text-decoration:none;">Numerical Algebra, Matrix Theory, Differential-Algebraic Equations and Control Theory</a></b></li>                                
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(16).pdf" style="text-decoration:none;">Schaum's outline of theory and problems of matrices</a></b></li>                                 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(13).pdf" style="text-decoration:none;"> Computational Physics: Fortran Version </a></b></li>
 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(17).pdf" style="text-decoration:none;">Matrix Algebra From a Statistician's Perspective</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(14).pdf" style="text-decoration:none;">Computational Methods in Plasma Physics</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(15).pdf" style="text-decoration:none;">Theoretical and Computational Plasma Physics</a></b></li>                                
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(16).rar" style="text-decoration:none;">A First Course in Computational Physics</a></b></li>                                 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(18).pdf" style="text-decoration:none;">Applied Matrix Algebra in the Statistical Sciences </a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(17).pdf" style="text-decoration:none;">Computational Methods for Physics</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Physics-Books/blob/master/ctp(18).pdf" style="text-decoration:none;">Basic Concepts in Computational Physics </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(19).pdf" style="text-decoration:none;">Introduction to Matrix Algebra</a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(20).pdf" style="text-decoration:none;">Hands-On Matrix Algebra Using R</a></b></li>                                
-                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(21).pdf" style="text-decoration:none;">Matrix Algebra for Engineers</a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/Matrix-Algebra-Books/blob/master/rix(22).pdf" style="text-decoration:none;">Matrices and Society: Matrix Algebra and Its Applications in the Social Sciences</a></b></li>   
 
 
 
